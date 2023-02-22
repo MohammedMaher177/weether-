@@ -1,0 +1,20 @@
+#home {
+  background-image: url(../images/Space-Weather-3.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button {
+  position: absolute;
+  border-radius: 30px;
+  top: 5%;
+  right: 1%;
+  bottom: 5%;
+}
+
+input::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(93, 93, 134) !important;
+  opacity: 1; /* Firefox */
+}
